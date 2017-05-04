@@ -1,2 +1,2 @@
 # NT Live
-Improving search, nav and overall UX for NT Live http://ntlive.nationaltheatre.org.uk.
+A redesign of the search and nav experience on [NT Live](http://ntlive.nationaltheatre.org.uk).
